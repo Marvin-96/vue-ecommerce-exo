@@ -18,22 +18,6 @@
 export default {
   name: "product-card",
   props: ['product'],
-  computed: {
-   
-    // isInjured() {
-    //   if(this.product.health == "out"){
-    //     return true
-    //   }
-    //   return false
-    // },
-    // healthStyle() {
-    //   return { 
-    //     'bg-gray-600': this.isInjured, 
-    //     'border-white': this.isInjured, 
-    //     'border-black': !this.isInjured 
-    //   }
-    // }
-  },
   methods: {
     addToSelection() {
       this.$emit('add-product', this.product)

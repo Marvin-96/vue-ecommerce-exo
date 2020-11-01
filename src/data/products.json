@@ -1,0 +1,42 @@
+{
+ 
+  "products": [
+    {
+      "name": "Air Max 98",
+      "brand": "Nike",
+      "price": "30",
+      "sale": true,
+      "photo": "nike-air-max-98-gundam-2018.jpg"
+    },
+    {
+      "name": "Puma-Rs-X",
+      "brand": "Puma",
+      "price": "29",
+      "sale": false,
+      "photo": "Puma-Rs-X.jpg"
+    },
+    {
+    
+      "name": "Nike Air VaporMax",
+      "brand": "Nike",
+      "price": "92.99",
+      "sale": true,  
+      "photo": "nike-air-VaporMax.jpeg"
+    },
+    {
+      "name": "Adidas Nmd",
+      "brand": "Adidas",
+      "price": "20",
+      "sale": false,
+      "photo": "nmd.jpg"
+    },
+    {
+    
+      "name": "Reebox classic",
+      "brand": "Reebox",
+      "price": "76",
+      "sale": false,
+      "photo": "reebok.jpg"
+    }
+  ]
+}
